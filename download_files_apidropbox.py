@@ -2,9 +2,9 @@
 EJEMPLOS:
 	TOKEN = Token de tu aplicación
 	ARCHIVO_LOCAL = Poner la ruta del archivo 
-					en el que se va almacenar.
+			en el que se va almacenar.
 	RUTA_REMOTA = LA ruta donde se encuentra 
-					tu archivo en Dropbox.
+			tu archivo en Dropbox.
 """
 
 import dropbox
