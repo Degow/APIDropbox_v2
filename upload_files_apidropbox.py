@@ -1,6 +1,6 @@
 """
 EJEMPLOS:
-	TOKEN = Token de tu aplicación
+	TOKEN = Token de la aplicación
 	RUTA_ARCHIVO_LOCAL = Ruta donde se encuentra
 			a subir. 
 	RUTA_REMOTA = Ruta Dropbox para guardar archivo

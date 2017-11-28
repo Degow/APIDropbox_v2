@@ -1,6 +1,6 @@
 """
 EJEMPLOS:
-	TOKEN = Token de tu aplicación
+	TOKEN = Token de la aplicación
 	ARCHIVO_LOCAL = Poner la ruta del archivo 
 			en el que se va almacenar.
 	RUTA_REMOTA = LA ruta donde se encuentra 
