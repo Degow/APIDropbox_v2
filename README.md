@@ -25,8 +25,8 @@ Script para subir múltiples archivos de una carpeta a la nube.
 **_upload_files_apidropbox.py_** : 
 Script para subir archivos a la nube.
 
-:grey_exclamation:**_upload_heavy_files_apidropbox_** :
+:grey_exclamation:**_upload_heavy_files_apidropbox.py_** :
 Script para subir archivos pesados a la nube.
 
-:grey_exclamation:**_overwrite_files_apidropboc_**:
+:grey_exclamation:**_overwrite_files_apidropboc.py_**:
 Script para sobrescribir archivos en almacenados en la nube.
