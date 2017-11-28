@@ -4,10 +4,9 @@ Probando la API v2 de Dropbox aplicaciones básicas
 :grey_exclamation: Scripts Faltantes
 
 ## Installation 
-Guía para comenzar [Propbox for Python](https://www.dropbox.com/developers/documentation/python).
+Guía para comenzar [Dropbox for Python](https://www.dropbox.com/developers/documentation/python).
 
 	pip install dropbox
-
 
 ## Files:
 **_download_files_apidropbox.py_** :
@@ -25,7 +24,7 @@ Script para subir múltiples archivos de una carpeta a la nube.
 **_upload_files_apidropbox.py_** : 
 Script para subir archivos a la nube.
 
-:grey_exclamation:**_upload_heavy_files_apidropbox.py_** :
+**_upload_heavy_files_apidropbox.py_** :
 Script para subir archivos pesados a la nube.
 
 :grey_exclamation:**_overwrite_files_apidropboc.py_**:
