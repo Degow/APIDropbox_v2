@@ -1,18 +1,25 @@
 # APIDropbox_v2 :coffee:
 Probando la API v2 de Dropbox aplicaciones básicas
+
+## Installation 
+Guía para comenzar [Propbox for Python](https://www.dropbox.com/developers/documentation/python).
+
+	pip install dropbox
+
+
 ## Files:
 ***
 **_download_files_apidropbox.py_** :
- Script para descargar archivos no pesados de Dropbox, como simples .txt
+Script para descargar archivos no pesados de Dropbox, como simples .txt
 
 **_download_files_apidropbox_met2.py_** : 
- Script para descargar archivos no pesados de con otro método de Dropbox.
+Script para descargar archivos no pesados de con otro método de Dropbox.
 
 **_file_metadata_apidropbox.py_** : 
- Script para extraer matadatos de archivos o carpetas de Dropbox.
+Script para extraer matadatos de archivos o carpetas de Dropbox.
 
 **_upload_archives_carpets_apidropbox.py_** : 
- Script para subir múltiples archivos de una carpeta a la nube.
+Script para subir múltiples archivos de una carpeta a la nube.
 
 **_upload_files_apidropbox.py_** : 
- Script para subir archivos a la nube.
+Script para subir archivos a la nube.
