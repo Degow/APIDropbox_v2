@@ -1,3 +1,8 @@
+"""
+	RUTA_REMOTA = ruta donde se encuentra el archivo
+			especifica el nombre
+"""
+
 import dropbox
 
 dbx = dropbox.Dropbox('<TOKEN>')

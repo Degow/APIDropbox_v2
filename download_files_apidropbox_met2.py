@@ -2,7 +2,9 @@
 EJEMPLOS:
 	TOKEN = Token de la aplicacion
 	RUTA_ARCHIVO_LOCAL = la ruta del archivo
+			mas nombre del archivo
 	RUTA_ARCHIVO_REMOTO = ruta de archivo en Dropbox
+			mas nombre del archivo
 
 """
 

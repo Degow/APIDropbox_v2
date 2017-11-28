@@ -4,6 +4,7 @@ EJEMPLOS:
 	RUTA_ARCHIVO_LOCAL = Ruta donde se encuentra
 			a subir. 
 	RUTA_REMOTA = Ruta Dropbox para guardar archivo
+			mas el nombre del archivo
 """
 
 import dropbox
