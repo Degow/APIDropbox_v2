@@ -27,5 +27,8 @@ Script para subir archivos a la nube.
 **_upload_heavy_files_apidropbox.py_** :
 Script para subir archivos pesados a la nube.
 
-:grey_exclamation:**_overwrite_files_apidropboc.py_**:
-Script para sobrescribir archivos en almacenados en la nube.
+**_overwrite_files_apidropbox.py_**:
+Script para sobrescribir archivos existentes almacenados en la nube.
+
+:grey_exclamation:**_determine_type_object.py_**:
+Script para determinar que tipo de archivo existe en tu Dropbox.
